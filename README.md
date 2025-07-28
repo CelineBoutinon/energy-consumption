@@ -1,11 +1,7 @@
 ![Logo](logo.jpg)
 
 
-MENTIONS LÉGALES / DISCLAIMER
 
-Cette étude a été produite par CelineBoutinon sur la base des données publiées par la ville de Seattle (WA, USA) sur https://data.seattle.gov/. La ville de Seattle fournit ces données au public « en l’état » et ne donne aucune garantie, expresse ou implicite, quant à l’exactitude, l’exhaustivité, l’actualité ou la fiabilité de ces données. La ville n’assume aucune responsabilité pour les erreurs dans l’information ni pour toute utilisation des informations fournies. Les utilisateurs des données sont responsables de l’utilisation qu’ils en font et les analyses présentées ici restent la responsabilité seule de l'auteure. Pour plus de détails, veuillez consulter les conditions d’utilisation sur https://data.seattle.gov/stories/s/Data-Policy/6ukr-wvup/.
-
-This study was produced by Celine Boutinon based on data published by the City of Seattle (WA, USA) on https://data.seattle.gov/. The City of Seattle provides this data to the public “as is” and makes no guarantee, express or implied, as to the accuracy, completeness, timeliness, or reliability of the data. The City assumes no responsibility for errors in the information nor for any use of the information provided. Data users are responsible for how they use the data, and the analyses presented here are the sole responsibility of the author. For more details, please consult the terms of use at https://data.seattle.gov/stories/s/Data-Policy/6ukr-wvup/.
 
 
 # ANTICIPER LES CONSOMMATIONS ÉNERGÉTIQUES ET LES ÉMISSIONS DE GAZ À EFFET DE SERRE
@@ -47,7 +43,11 @@ Les données-source sont disponibles sur https://data.seattle.gov/Built-Environm
 Voir requirements.txt pour la liste complète des librairies & packages.
   
 
+## MENTIONS LÉGALES / DISCLAIMER
 
+Cette étude a été produite par CelineBoutinon sur la base des données publiées par la ville de Seattle (WA, USA) sur https://data.seattle.gov/. La ville de Seattle fournit ces données au public « en l’état » et ne donne aucune garantie, expresse ou implicite, quant à l’exactitude, l’exhaustivité, l’actualité ou la fiabilité de ces données. La ville n’assume aucune responsabilité pour les erreurs dans l’information ni pour toute utilisation des informations fournies. Les utilisateurs des données sont responsables de l’utilisation qu’ils en font et les analyses présentées ici restent la responsabilité seule de l'auteure. Pour plus de détails, veuillez consulter les conditions d’utilisation sur https://data.seattle.gov/stories/s/Data-Policy/6ukr-wvup/.
+
+This study was produced by Celine Boutinon based on data published by the City of Seattle (WA, USA) on https://data.seattle.gov/. The City of Seattle provides this data to the public “as is” and makes no guarantee, express or implied, as to the accuracy, completeness, timeliness, or reliability of the data. The City assumes no responsibility for errors in the information nor for any use of the information provided. Data users are responsible for how they use the data, and the analyses presented here are the sole responsibility of the author. For more details, please consult the terms of use at https://data.seattle.gov/stories/s/Data-Policy/6ukr-wvup/.
 
 
 
